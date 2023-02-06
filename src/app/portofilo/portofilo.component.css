@@ -1,0 +1,17 @@
+.card{
+    text-align: center;
+    padding: 80px;
+    margin: 20px;
+    width: 27%;
+   
+    background-color: black;
+    color: white;
+
+}
+.card h4::after{
+    border: white solid;
+    border-width: 100px;
+}
+.row{
+    display: flex;
+}

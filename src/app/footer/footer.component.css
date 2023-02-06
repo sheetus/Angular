@@ -1,0 +1,17 @@
+.footer_content a{
+    color: white;
+    border: white solid;
+    width: 150px;
+    font-size: large;
+    background-color: rgba(0, 0, 0, 0.911);
+    text-decoration: none;
+    padding: 1.25rem 15px;
+    margin-left: 1.875rem;
+}
+.footer_content{
+    padding-top: 1.25rem;
+}
+i{
+    font-size: 1.875rem;
+    padding: .3125rem;
+}

@@ -1,0 +1,13 @@
+.about_me_content{
+    padding: 20px;
+}
+a{
+    color: white;
+    border: white solid;
+    width: 150px;
+    font-size: large;
+    
+}
+a:hover{
+border: solid;
+}

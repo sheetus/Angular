@@ -1,0 +1,53 @@
+.header{
+    background-image: url("/assets/cover-photo.jpg");
+    height: 500px;
+ 
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+  .about_me{
+    padding: 4.375rem;
+    background-color:rgba(0, 0, 0, 0.904);
+    color: white;
+    height: 18.75rem;
+
+  }
+  a{
+    color: white;
+    border: white solid;
+    width: 150px;
+    font-size: large;
+    
+}
+a{
+  color: white;
+  border: white solid;
+  width: 150px;
+  font-size: large;
+  
+}
+a:hover{
+border: solid;
+}
+.skills{
+  
+    padding: 4.375rem;
+    background-color:rgba(0, 0, 0, 0.904);
+    color: white;
+    /* height: 18.75rem; */
+
+  
+}
+.skills_content{
+  padding: 20px;
+}
+.porofolio{
+  padding: 4.375rem;
+}
+.footer{
+  background-color: black;
+  /* height: 12.5rem; */
+  padding: 4.375rem;
+  color: white;
+}

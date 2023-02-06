@@ -1,0 +1,10 @@
+.header_content{
+    padding: 25px;
+}
+.header_content a{
+    color: white;
+    border: white solid;
+    width: 150px;
+    font-size: large;
+    background-color: rgba(0, 0, 0, 0.911);
+}
