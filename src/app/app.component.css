@@ -1,7 +1,7 @@
 .header{
-    background-image: url("/assets/cover-photo.jpg");
-    height: 500px;
- 
+    background-image: url("/assets/cover-photo3.jpg" );
+    height: 800px;
+ color: white;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
